@@ -2,7 +2,7 @@ import React from "react";
 import { Header } from "../common/Header";
 import { Footer } from "../common/Footer";
 import { Link } from "react-router";
-import "./postList.css"
+import "./postlist.css"
 
 export function PostList() {
     return (
