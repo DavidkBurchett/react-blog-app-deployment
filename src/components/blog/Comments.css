@@ -1,0 +1,24 @@
+li {
+    list-style-type: none;
+}
+
+#comment_class{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20%;
+    padding-right: 20%;
+    width: 60%;
+}
+
+button {
+    margin: 10px;
+}
+
+.indcomment {
+    border: solid rgb(130, 17, 0) 1px;
+}
+
+.commentbtn {
+    margin-left: 0;
+    margin-right: 0;
+}

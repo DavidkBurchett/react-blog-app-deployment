@@ -1,0 +1,12 @@
+.blog {
+  position: relative;
+  left: 25%;
+  width: 50%;
+  height: auto;
+  box-shadow: 5px 5px 15px rgba(77, 67, 67, 0.3);
+  border-radius: 2rem;
+  border: solid;
+  border-color: rgb(130, 17, 0);
+  margin-top: 175px;
+  margin-bottom: 50px;
+}

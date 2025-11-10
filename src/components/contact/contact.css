@@ -1,0 +1,25 @@
+* {
+    width: 100%;
+}
+
+.formcontainer {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2.5em;
+}
+
+.form {
+    padding: 10px;
+}
+
+.formcontent {
+    padding: 5px;
+    text-align: left;
+}
+
+#subbtn {
+    width: 17%;
+    text-align: center;
+    background-color: rgb(130, 17, 0);
+}
