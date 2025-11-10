@@ -1,7 +1,7 @@
 import React from "react";
 import { Header } from "../common/Header";
 import { BlogPost } from "./BlogPost";
-import { Footer } from "../common/footer";
+import { Footer } from "../common/Footer";
 
 export function IndividualBlogPost(){
     return(
