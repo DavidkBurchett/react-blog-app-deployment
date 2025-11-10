@@ -1,5 +1,5 @@
 import React from "react";
-import "./comments.css"
+import "./Comments.css"
 
 export function IndividualComment({value}) {
     return (
